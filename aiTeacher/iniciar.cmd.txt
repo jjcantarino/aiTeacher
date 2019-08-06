@@ -1,0 +1,2 @@
+ionic -serve lab
+start chrome http://localhost:8200
